@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@types/jquery": "^3.5.22",
+    "prettier": "^3.0.3"
+  }
+}
